@@ -1,2 +1,2 @@
 # ESP32
-Allsensor Interface With Esp32
+All sensor Interface With Esp32
